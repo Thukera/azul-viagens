@@ -1,0 +1,3 @@
+div[id^="LPMcontainer"] {
+	top: -50% !important;
+}
